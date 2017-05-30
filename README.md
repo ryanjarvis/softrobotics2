@@ -1,2 +1,2 @@
 # softrobotics2
-Another example for SoftRobotics
+Illustrates a makefile for building Arduino apps using the AVR toolchain instead of the Arduino IDE
